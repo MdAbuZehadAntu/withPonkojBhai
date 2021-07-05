@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9de3585e-c298-4b65-be24-8ec3c2637636" name="Default Changelist" comment="" />
+    <list default="true" id="9de3585e-c298-4b65-be24-8ec3c2637636" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageDataGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImageDataGenerator_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_2032.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_2428.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_2579.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_3395.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_34.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_3961.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_487.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_5095.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_5161.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_5198.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_529.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_5312.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_7242.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_7271.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_7357.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_7449.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_8422.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_8498.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_8830.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_8965.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/dog_0_9466.jpeg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,11 +52,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deeplearning" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ImageDataGenerator">
-    <configuration name="ImageDataGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.image_dataset_from_directory">
+    <configuration name="ImageDataGenerator_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="withPonkojBhai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,7 +68,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageDataGenerator.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DELL\OneDrive\Documents\GitHub\withPonkojBhai\ImageDataGenerator_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_dataset_from_directory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="withPonkojBhai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_dataset_from_directory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +142,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ImageDataGenerator" />
+        <item itemvalue="Python.image_dataset_from_directory" />
+        <item itemvalue="Python.ImageDataGenerator_class" />
         <item itemvalue="Python.keras_imagedatagenerator" />
       </list>
     </recent_temporary>
@@ -112,5 +158,17 @@
       <updated>1625411914738</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
